@@ -29,7 +29,6 @@ jobs:
       with:
         context: .
         push: true
-        tags: |
-          ghcr.io/abdallahamdy1372001/getting-started:1.1.0
+        tags: ghcr.io/abdallahhamdy1372001/getting-started:latest
         
           
